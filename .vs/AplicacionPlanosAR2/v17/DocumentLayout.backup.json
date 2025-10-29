@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\.1Proyectos\\04.RealidadAumentada\\AplicacionPlanosAR2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3897CE2F-7497-08BD-3CC8-AE9358B315AB}|Assembly-CSharp.csproj|C:\\.1Proyectos\\04.RealidadAumentada\\AplicacionPlanosAR2\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3897CE2F-7497-08BD-3CC8-AE9358B315AB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\.1Proyectos\\04.RealidadAumentada\\AplicacionPlanosAR2\\Library\\PackageCache\\com.unity.ide.visualstudio@2.0.11\\Editor\\VisualStudioIntegration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.ide.visualstudio@2.0.11\\Editor\\VisualStudioIntegration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3897CE2F-7497-08BD-3CC8-AE9358B315AB}|Assembly-CSharp.csproj|c:\\.1proyectos\\04.realidadaumentada\\aplicacionplanosar2\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3897CE2F-7497-08BD-3CC8-AE9358B315AB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +30,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "VisualStudioIntegration.cs",
               "DocumentMoniker": "C:\\.1Proyectos\\04.RealidadAumentada\\AplicacionPlanosAR2\\Library\\PackageCache\\com.unity.ide.visualstudio@2.0.11\\Editor\\VisualStudioIntegration.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ide.visualstudio@2.0.11\\Editor\\VisualStudioIntegration.cs",
@@ -43,13 +43,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "GameManager.cs",
               "DocumentMoniker": "C:\\.1Proyectos\\04.RealidadAumentada\\AplicacionPlanosAR2\\Assets\\Scripts\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
               "ToolTip": "C:\\.1Proyectos\\04.RealidadAumentada\\AplicacionPlanosAR2\\Assets\\Scripts\\GameManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwB8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-24T17:52:56.069Z",
               "EditorCaption": ""
