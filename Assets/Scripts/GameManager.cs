@@ -9,7 +9,7 @@ public class GameManager : MonoBehaviour
     public event Action OnItemMenu;
     public event Action OnARPosition;
 
-    private static GameManager instance;
+    public static GameManager instance;
 
     private void Awake()
     {
