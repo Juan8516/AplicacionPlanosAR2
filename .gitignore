@@ -8,4 +8,4 @@
 UserSettings/
 *.csproj
 *.unitypackage
-*.sln
+*.sln.vs/
