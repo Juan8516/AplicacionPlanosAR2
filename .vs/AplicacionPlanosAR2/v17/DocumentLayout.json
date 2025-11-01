@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\.1Proyectos\\04.RealidadAumentada\\AplicacionPlanosAR2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3897CE2F-7497-08BD-3CC8-AE9358B315AB}|Assembly-CSharp.csproj|c:\\.1proyectos\\04.realidadaumentada\\aplicacionplanosar2\\assets\\scripts\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3897CE2F-7497-08BD-3CC8-AE9358B315AB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3897CE2F-7497-08BD-3CC8-AE9358B315AB}|Assembly-CSharp.csproj|c:\\.1proyectos\\04.realidadaumentada\\aplicacionplanosar2\\assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3897CE2F-7497-08BD-3CC8-AE9358B315AB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,6 +35,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\.1Proyectos\\04.RealidadAumentada\\AplicacionPlanosAR2\\Assets\\Scripts\\Item.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Item.cs",
+              "ToolTip": "C:\\.1Proyectos\\04.RealidadAumentada\\AplicacionPlanosAR2\\Assets\\Scripts\\Item.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T22:56:29.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "UIManager.cs",
               "DocumentMoniker": "C:\\.1Proyectos\\04.RealidadAumentada\\AplicacionPlanosAR2\\Assets\\Scripts\\UIManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UIManager.cs",
@@ -43,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "GameManager.cs",
               "DocumentMoniker": "C:\\.1Proyectos\\04.RealidadAumentada\\AplicacionPlanosAR2\\Assets\\Scripts\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
@@ -51,8 +68,7 @@
               "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAQwDEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T17:52:56.069Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-24T17:52:56.069Z"
             }
           ]
         }
